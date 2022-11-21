@@ -1,8 +1,19 @@
 # proxy
 
-for study
-* Design Pattern
-* Spring AOP
+
+* Design Patterns (using proxy)
+  - 프록시 패턴
+  - 데코레이터 패턴
+
+* 동적 프록시
+  - 리플렉션
+  - JDK 동적 프록시 (interface based)
+  - CGLIB (subclass based)
+
+* 프록시 팩토리
+  - Advisor = Pointcut + Advice
+
+* 빈 후처리기
 
 
 ## References
